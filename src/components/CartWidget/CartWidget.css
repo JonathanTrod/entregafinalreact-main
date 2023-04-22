@@ -1,0 +1,15 @@
+#CartImg {
+    height: 5vh;
+}
+
+#CartLink {
+    float: right;
+    top: 15px;
+    right: 30px;
+}
+
+#CartQuantity {
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 1vw;
+}
